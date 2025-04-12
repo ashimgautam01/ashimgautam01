@@ -12,27 +12,27 @@
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-- 🔭 I’m currently working on **[NoteBook](https://github.com/ashimGauatam1/notebook)**
+- 🔭 I’m currently working on **[NoteBook](https://github.com/ashimGautam1/notebook)**
 - 🌱 I’m learning **React, Node.js, Django, and more**
-- 👯 I’m looking to collaborate on **[Ecommerce Project](https://github.com/ashimGauatam1/project_ecommerce)**
+- 👯 I’m looking to collaborate on **[Ecommerce Project](https://github.com/ashimGautam1/project_ecommerce)**
 - 💬 Ask me about **React, Node.js, C/C++**
 - 📫 How to reach me **ashimgautam01@gmail.com**
-- 📄 Know about my experiences [Resume Here](https://github.com/ashimGauatam1/portfolio)
+- 📄 Know about my experiences [Resume Here](https://github.com/ashimGautam1/portfolio)
 - ⚡ Fun fact **My code once made the computer laugh... I accidentally left a 'ha-ha' comment in the middle of debugging.**
 <br><br>
 <div align='center'>
-  <img align="center" width="800" height='200' src="https://streak-stats.demolab.com/?user=ashimgauatam1&theme=dark&hide_border=false" alt="ashimgauatam1" />
+  <img align="center" width="800" height='200' src="https://streak-stats.demolab.com/?user=ashimgautam1&theme=dark&hide_border=false" alt="ashimgautam1" />
   <br><br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashimgauatam1&show_icons=true&locale=en&layout=compact&theme=dark" alt="ashimgauatam1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashimgautam1&show_icons=true&locale=en&layout=compact&theme=dark" alt="ashimgautam1" />
 </div>
 
   <br>
   
-  <img align='center' width="800" height='300' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashimgauatam1&theme=github_dark&hide_border=false'> 
+  <img align='center' width="800" height='300' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashimgautam1&theme=github_dark&hide_border=false'> 
 </div>
 <br>
-<img alt='fitting' align='center' width='900' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashimgauatam1&theme=github_dark'>
+<img alt='fitting' align='center' width='900' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashimgautam1&theme=github_dark'>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ashim-gautam-01443b2b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashim-gautam-01443b2b1/" height="30" width="40" /></a>
