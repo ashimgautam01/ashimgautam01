@@ -24,7 +24,7 @@
   <img align="center" width="800" height='200' src="https://streak-stats.demolab.com/?user=ashimgautam1&theme=dark&hide_border=false" alt="ashimgautam1" />
   <br><br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashimgautam1&show_icons=true&locale=en&layout=compact&theme=dark" alt="ashimgautam1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashimgautam01&show_icons=true&locale=en&layout=compact&theme=dark" alt="ashimgautam01" />
 </div>
 
   <br>
