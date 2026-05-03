@@ -20,20 +20,9 @@
 - 📄 Know about my experiences [Resume Here](https://github.com/ashimGautam01/portfolio)
 - ⚡ Fun fact **My code once made the computer laugh... I accidentally left a 'ha-ha' comment in the middle of debugging.**
 <br><br>
-<div align='center'>
-  <img align="center" width="800" height='200' src="https://streak-stats.demolab.com/?user=ashimgautam01&theme=dark&hide_border=false" alt="ashimgautam01" />
-  <br><br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashimgautam01&show_icons=true&locale=en&layout=compact&theme=dark" alt="ashimgautam01" />
-</div>
 
-  <br>
-  
-  <img align='center' width="800" height='300' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashimgautam01&theme=github_dark&hide_border=false'> 
 </div>
 <br>
 <img alt='fitting' align='center' width='900' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashimgautam01&theme=github_dark'>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashim-gautam-01443b2b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashim-gautam-01443b2b1/" height="30" width="40" /></a>
-</p>
